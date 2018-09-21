@@ -1,1 +1,1 @@
-# vrdev-udacity-carnival
+# udacity-carnival
